@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "为什么说哪吒闹海是中国唯一一个有来龙去脉的故事？",
+    "answer": "因为来龙，去脉",
+    "explanation": "成语题",
+    "category": "成语题"
+  },
+  {
+    "id": 2,
+    "question": "女娲补天用的材料是什么？",
+    "answer": "强扭的瓜",
+    "explanation": "俗语题",
+    "category": "俗语题"
+  },
+  {
+    "id": 3,
+    "question": "当你感觉不行的时候为什么要走斑马线？",
+    "answer": "这样你可以变成行人",
+    "explanation": "常识题",
+    "category": "常识题"
+  },
+  {
+    "id": 4,
+    "question": "敖丙的爸爸死了敖丙变成了什么",
+    "answer": "霸王龙",
+    "explanation": "爸亡龙",
+    "category": "生物题"
+  },
+  {
+    "id": 5,
+    "question": "敖丙的哥哥死了，敖丙变成了什么",
+    "answer": "哥斯拉",
+    "explanation": "生物题",
+    "category": "生物题"
+  },
+  {
+    "id": 6,
+    "question": "龙卷风到了非洲叫什么",
+    "answer": "扫黑风暴",
+    "explanation": "地理题",
+    "category": "地理题"
+  },
+  {
+    "id": 7,
+    "question": "路易十六在什么地方最安全",
+    "answer": "高速路口",
+    "explanation": "高速路口禁止掉头",
+    "category": "历史题"
+  },
+  {
+    "id": 8,
+    "question": "哪吒用莲藕变出身体后，他是男是女",
+    "answer": "男的",
+    "explanation": "奇变偶不变",
+    "category": "数学题"
+  },
+  {
+    "id": 9,
+    "question": "为什么赵云的奶奶小时候经常扇赵云巴掌",
+    "answer": "吾奶常扇赵子龙",
+    "explanation": "历史题",
+    "category": "历史题"
+  },
+  {
+    "id": 10,
+    "question": "当你遇到至暗时刻你得站起来，为什么",
+    "answer": "至暗站！",
+    "explanation": "语文题",
+    "category": "语文题"
+  },
+  {
+    "id": 11,
+    "question": "当你笑不出来的时候，记得喝西药，中药已经调理不了你，为什么",
+    "answer": "西药笑！",
+    "explanation": "西药是笑气",
+    "category": "语文题"
+  }
+]
